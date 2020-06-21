@@ -239,6 +239,9 @@ li.current a {
     text-align: center !important;
     padding-top: 1.5rem !important;
 }
+.social-heading{
+    font-weight: 700;
+}
 /* query */
 .menu-head {
     display: none;
