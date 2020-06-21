@@ -226,8 +226,8 @@ li.current a {
     font-size: 3rem;
     height: 3rem;
 }
-.social-icons h4 {
-    transform: translateX(7%);
+.social-icons{
+    transform: translateY(20%);
 }
 .social:hover {
     color: black;
